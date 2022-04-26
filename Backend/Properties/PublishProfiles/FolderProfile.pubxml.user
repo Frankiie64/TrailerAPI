@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\Franklyn\Desktop\TrailerAPI</_PublishTargetUrl>
+    <History>True|2022-04-22T19:29:39.3951717Z;True|2022-04-22T14:31:16.0665899-04:00;True|2022-04-22T14:23:21.0094891-04:00;True|2022-04-20T16:45:56.9545709-04:00;True|2022-04-19T09:29:13.6992633-04:00;True|2022-04-18T00:01:27.0921846-04:00;True|2022-04-14T12:51:39.2428786-04:00;True|2022-04-14T12:05:33.4441716-04:00;True|2022-04-13T23:13:31.1100871-04:00;</History>
+  </PropertyGroup>
+</Project>
